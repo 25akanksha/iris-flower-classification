@@ -5,9 +5,13 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 Attribute Information:-
 
 sepal length in cm
+
 sepal width in cm
+
 petal length in cm
+
 petal width in cm
+
 species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 Download link: https://www.kaggle.com/uciml/iris
@@ -15,13 +19,19 @@ Download link: https://www.kaggle.com/uciml/iris
 LIBRARIES:-
 
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
 
 Algorithms:-
 
 Logistic Regression
+
 K-Nearest Neighbors
+
 Decision Tree
+
 Best Model Accuracy: 100.00
